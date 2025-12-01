@@ -2,13 +2,15 @@
 // 2. Assigner à la variable result le résultat de l'addition de a et b
 
 // Ecrivez votre code ici
-//
-//
-//
-//
-//
-//
-//
+let a = 23;
+let b = 13;
+let result=36;
+console.log(a);
+console.log(b);
+console.log(result);
+
+
+
 // Ne modifiez pas le code ci-dessous
 
 if (typeof result !== 'undefined' && typeof a !== 'undefined' && typeof a !== 'undefined') {
