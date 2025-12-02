@@ -4,9 +4,7 @@
 // Ecrivez votre code ici
 let a = 23;
 let b = 13;
-let result=36;
-console.log(a);
-console.log(b);
+let result=a+b;
 console.log(result);
 
 
